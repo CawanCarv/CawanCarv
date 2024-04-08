@@ -1,16 +1,27 @@
-### Hi there 👋
+## 💜 Olá, meu nome é Cawan Carvalho!
 
-<!--
-**CawanCarv/CawanCarv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🖥️ Desenvolvedor <strong>Full stack</strong>!
 
-Here are some ideas to get you started:
+### 👨‍💼 Atualmente trabalhando na RC Marketing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Minhas Skills
+
+![Next.js](https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=nextdotjs&logoColor=black&labelColor=FFFFFF)
+![TailwindCSS](https://img.shields.io/badge/tailwind%20css-black?style=for-the-badge&logo=tailwindcss&logoColor=black&labelColor=FFFFFF)
+![Bootstrap](https://img.shields.io/badge/bootstrap-black?style=for-the-badge&logo=bootstrap&logoColor=black&labelColor=FFFFFF)
+![Typescript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript&logoColor=black&labelColor=FFFFFF)
+
+![Javascript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript&logoColor=black&labelColor=FFFFFF)
+![HTML5](https://img.shields.io/badge/html%205-black?style=for-the-badge&logo=html5&logoColor=black&labelColor=FFFFFF)
+![CSS3](https://img.shields.io/badge/css%203-black?style=for-the-badge&logo=css3&logoColor=black&labelColor=FFFFFF)
+
+![PHP](https://img.shields.io/badge/php-black?style=for-the-badge&logo=php&logoColor=black&labelColor=FFFFFF)
+![MySQL](https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql&logoColor=black&labelColor=FFFFFF)
+
+---
+
+## ⭐ GitHub Stats
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cawancarv&show_icons=true&theme=dark&hide=issues,prs&count_private=true&locale=pt-br)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cawancarv&theme=dark&layout=compact&locale=pt-br)](https://github.com/lukkanog/github-readme-stats)
