@@ -23,13 +23,6 @@
 
 ---
 
-## ⭐ GitHub Stats
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cawancarv&show_icons=true&theme=dark&hide=issues,prs&count_private=true&locale=pt-br)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cawancarv&theme=dark&layout=compact&locale=pt-br)](https://github.com/lukkanog/github-readme-stats)
-
----
 ## 📫 Entre em contato:
 [![LinkedIn](https://img.shields.io/badge/linkedin-black?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=FFFFFF)](https://www.linkedin.com/in/cawan-carvalho-31417a200/)
 [![Email](https://img.shields.io/badge/gmail-black?style=for-the-badge&logo=gmail&logoColor=black&labelColor=FFFFFF)](mailto:cawancarvalho3@gmail.com)
