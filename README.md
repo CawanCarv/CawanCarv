@@ -3,7 +3,7 @@
 
 ### 🖥️ Desenvolvedor <strong>Full stack</strong>! [Confira meu Portfólio!](https://portfolio-beta-blush-52.vercel.app/)
 
-### 👨‍💼 Atualmente trabalhando na RC Marketing.
+### 👨‍💼 Atualmente trabalhando na IZA Seguradora S.A
 
 ---
 
